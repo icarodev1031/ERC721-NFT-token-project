@@ -1,0 +1,12 @@
+await ethers._network
+await ethers.getAccountAddress()
+ethers._network
+ethers.getAccountAddress()
+ethers.getAccountAddress
+ethers
+ls
+getBalance()
+getAccount()
+ethers.get()
+ethers.getBalance()
+/?
